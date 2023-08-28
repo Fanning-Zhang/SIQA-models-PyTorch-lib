@@ -1,12 +1,13 @@
-# This network is a reproduction of Si's Network: StereoIFNet.
-# ----------------------------------------------------------------------------
-# J. Si, B. Huang, H. Yang, W. Lin and Z. Pan, "A no-Reference 
-# Stereoscopic Image Quality Assessment Network Based on 
-# Binocular Interaction and Fusion Mechanisms," 
-# in IEEE Transactions on Image Processing, vol. 31, pp. 3066-3080, 2022.
-# ----------------------------------------------------------------------------
+'''
+This network is a reproduction of Si's Network: StereoIFNet.
+The original paper is as follows:
 
-# Author: Huilin Zhang (Fanning)
+J. Si, B. Huang, H. Yang, W. Lin and Z. Pan, "A no-Reference Stereoscopic Image Quality Assessment Network Based on 
+Binocular Interaction and Fusion Mechanisms," in IEEE Transactions on Image Processing, vol. 31, pp. 3066-3080, 2022.
+
+Author: Huilin Zhang (Fanning)
+
+'''
 
 
 import torch
